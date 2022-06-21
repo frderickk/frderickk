@@ -1,5 +1,10 @@
 ### Hi there 👋
 
+Hi, I'm Federico Farias a Computer System student from General Sarmiento National University and you can see all my projects that I'm working on.
+As you can see almost all projects are written in Java but I'm looking to work forward to learn more languages and frameworks.
+
+If you wanna reach me you can send me and email to <federicofarias@outlook.com>
+
 <!--
 **frderickk/frderickk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
