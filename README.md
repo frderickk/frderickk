@@ -2,7 +2,7 @@
 
 Hi, I'm Federico Farias a Computer Systems student from Universidad Nacional General Sarmiento (UNGS).
 
-As you can see almost all my projects that I'm working on are written in Java but I'm looking to work forward to learn more languages and frameworks.
+As you can see almost all my projects that I'm working on are written in Java but I'm looking forward to learn more languages and frameworks.
 
 If you wanna reach me you can send me and email to <federicofarias@outlook.com>
 
