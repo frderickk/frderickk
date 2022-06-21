@@ -1,4 +1,4 @@
-### Hi there 👋
+### 🐯
 
 Hi, I'm Federico Farias a Computer System student from General Sarmiento National University.
 
