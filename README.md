@@ -1,6 +1,6 @@
 ### 🐯
 
-Hi, I'm Federico Farias a Computer Systems student from Universidad Nacional General Sarmiento (UNGS).
+Hi, I'm Federico Farias a Computer Systems student at the Institute of Science in Universidad Nacional General Sarmiento.
 
 As you can see almost all my projects that I'm working on are written in Java but I'm looking forward to learn more languages and frameworks.
 
